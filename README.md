@@ -1,3 +1,4 @@
+https://build.appcenter.ms/v0.1/apps/b1a32387-2405-43e4-8186-a75aa8b6fd62/branches/master/badge
 # Visual Studio App Center Sample App for Android
 
 The Android application in this repository and its corresponding tutorials will help you quickly and easily onboard to Visual Studio App Center.
